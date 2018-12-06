@@ -1,0 +1,15 @@
+{
+    "addproc_request" :[
+        {
+        
+          
+            "supplies" : "Impression Tray (Qty:1) (price:10)",
+            "supplier" : "JOHN",
+            "procedure_count" : "1",
+            "clinic" : "Pennsylvania Oral & Maxillofacial Surgery LTD",
+            "location" : "Philadelphia"
+           
+        
+        }
+    ]
+    }

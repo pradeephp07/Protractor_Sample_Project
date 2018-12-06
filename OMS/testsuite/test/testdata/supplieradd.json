@@ -1,0 +1,22 @@
+{
+    "login":[
+        {
+            "email": "oms32018@gmail.com",
+            "password" : "p@ssword"
+        }
+    ],
+"addsupplier" :[
+    {
+    
+        "supplier_name" : "supplier2",
+        "contact_person" : "sup",
+        "email" : "supplier1@yopmail.com",
+        "phone" : "9898999598",
+        "zipcode" : "33065",
+        "address" : "test",
+        "city" : "testtts",
+        "supplies" : "cotton"
+    
+    }
+]
+}
